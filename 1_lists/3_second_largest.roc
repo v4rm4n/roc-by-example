@@ -1,7 +1,7 @@
 ## Second Largest
 ## ---
-## Given an list of integers nums, return the second-largest element
-## in the list. If the second-largest element does not exist, return Err(Empty).
+## Given an list of integers `nums`, return the second-largest element
+## in the list. If the second-largest element does not exist, return `Err(Empty)`.
 
 do_second = |nums, apex, apex2| match nums {
 	[] => apex2
