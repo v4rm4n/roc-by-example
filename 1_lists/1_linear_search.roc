@@ -1,6 +1,6 @@
 ## Linear Search
 ## ---
-## Given an list of integers nums and an integer target,
+## Given an list of integers `nums` and an integer `target`,
 ## find the smallest index (0 based indexing) where the
 ## target appears in the list. If the target is not found
 ## in the list, return an error.
